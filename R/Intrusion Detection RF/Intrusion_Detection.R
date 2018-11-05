@@ -1,6 +1,6 @@
 
 #Setting the Working Direcctory
-setwd("G:\\Personnal\\CTS\\Imarticus\\DataSets for Project 2 3 4\\Project 4 Network Intrution Detection\\")
+
 
 #Reading the Training Data into R
 Train_intrusion = read.csv("R_Module_Day_12.1_Network_Intrusion_Train_data (2).csv")

@@ -1,4 +1,4 @@
-setwd("G:\\Personnal\\CTS\\Imarticus\\R Code\\Kaggle\\Forest Cover Type Prediction\\")
+
 train = read.csv("train.csv")
 test = read.csv("test.csv")
 

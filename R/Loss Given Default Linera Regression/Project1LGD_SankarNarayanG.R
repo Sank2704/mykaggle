@@ -1,5 +1,5 @@
 #Setting the Working Directory
-setwd("G:\\Personnal\\CTS\\Imarticus\\Case Studies\\LGD")
+
 sourceData = read.csv("Loss Given Default Data Sets.csv")
 
 #Data Frame with the CSV Data in R memory

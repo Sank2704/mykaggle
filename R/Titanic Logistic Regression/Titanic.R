@@ -1,4 +1,4 @@
-setwd("G:\\Personnal\\CAT PREPARATION\\Kaggle\\Titanic")
+
 train_titanic = read.csv("train.csv")
 test_titanic = read.csv("test.csv")
 

@@ -1,6 +1,6 @@
 
 #Setting the Working Direcctory
-setwd("G:\\Personnal\\CTS\\Imarticus\\Case Studies\\Credit Risk Contents\\")
+setwd("")
 
 #Reading the Training Data into R
 df_train = read.csv("R_Module_Day_7.2_Credit_Risk_Train_data.csv")

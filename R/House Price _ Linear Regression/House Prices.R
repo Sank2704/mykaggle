@@ -1,4 +1,4 @@
-setwd("G:\\Personnal\\CTS\\Imarticus\\R Code\\Kaggle\\House Prices\\")
+
 #Reading the data
 train = read.csv("train.csv")
 test = read.csv("test.csv")
