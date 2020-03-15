@@ -4,3 +4,10 @@ Python/Pandas Samples/Ex_Files_Pandas_EssT/.ipynb_checkpoints/Pandas-1-checkpoin
 *.ipynb_checkpoints
 *-checkpoint.ipynb
 
+*.xlsx
+*.7z
+*.zip
+*.joblib
+Python/ETE ML Project Dog Breed Classification/end-to-end-dog-vision-video.ipynb
+Python/ETE ML Project Dog Breed Classification/end-to-end-dog-vision.ipynb
+Python/scikit-learn-exercises.ipynb
